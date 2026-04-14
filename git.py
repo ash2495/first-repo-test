@@ -14,3 +14,6 @@ qbeqi
 ahbdhjnj
 assert map.get("key30") == "value2";
 sortedMap = new TreeMap<>(map);
+rhufhsh
+PendingDeprecationWarning
+TabError
