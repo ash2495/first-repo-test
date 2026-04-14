@@ -17,3 +17,8 @@ sortedMap = new TreeMap<>(map);
 rhufhsh
 PendingDeprecationWarning
 TabError
+if (map.containsKey("key30")) {
+    System.out.println("Key exists in the map.");
+} else {
+    System.out.println("Key does not exist in the map.");
+}   
